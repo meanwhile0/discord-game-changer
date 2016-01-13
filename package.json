@@ -1,0 +1,17 @@
+{
+  "name": "discord-game-changer",
+  "version": "1.0.0",
+  "description": "Sets your game on Discord app",
+  "readme": "README.md",
+  "maintainers": [],
+  "author": "meanwhile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NightmareX91/HoloBot.git"
+  },
+  "license": "GNU",
+  "dependencies": {
+    "discord.js": "<=5.3.x"
+  },
+  "main": "main.js"
+}
